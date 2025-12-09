@@ -16,7 +16,11 @@ For VeriStand 2020 or later: See Releases tab.
 
 ### Quality, Limitations ###
 
-This IP should be considered mature, but of low quality. The code is kind of crazy and was the work of three different people. However, it works, and has worked in deployed systems since 2009. 
+This IP should be considered mature, but of low quality. The code is validated on a Linux RT target with Linux RT System Image 2023 Q4. 
+
+### Dependencies ###
+
+NI-SWITCH
 
 ### License ###
 
